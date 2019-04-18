@@ -1,5 +1,8 @@
 # Minions
 ### The Table Of Content
+* [team](#team)
+* [avatar](#avatar)
+* [meaning](#meaning)
  ### TEAM
  * MAHESH 1898496
  
