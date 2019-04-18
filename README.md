@@ -1,5 +1,5 @@
 # Minions
 ### The Table Of Content
-   **Team**
-   **Avatar**
-   **Meaning**
+  -**Team**
+  -**Avatar**
+  -**Meaning**
